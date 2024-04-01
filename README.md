@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!!
 
 Eu sou Gabriel Reche, sou programador Front-End, atualmente aprendendo e criando projetos com;
 <br>
